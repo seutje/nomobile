@@ -1,0 +1,4 @@
+name = NoMobile Image Formatter
+description = Provides a field formatter for images that don't need to be displayed on mobile devices.
+core = 7.x
+package = Media
